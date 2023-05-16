@@ -11,5 +11,5 @@ Mrs Ngozi
 Mr Ekene
 Mr Johnson Promise (JP)
 Mr Patrick
-#### [VIEW LIVE SITE]()
+#### [VIEW LIVE SITE] (https://chidiprosper07.github.io/lesson_3_task_3_okoye_chidiebube/)
 ## This is a work of LM TechHub

@@ -25,6 +25,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	width: 100%;
 }
 
 ol, ul {
@@ -63,6 +64,7 @@ h4 {
 }
 
 header {
+	width: 100%;
 	background-color: #0bab43;
 	color: #100e06;
 	text-align: center;
@@ -165,6 +167,7 @@ main aside {
 	background-image: linear-gradient(to bottom right, #c5e3c9, #44d852);
 	padding: 20px;
 	font-family: Lato, sans-serif;
+
 }
 
 main aside span a:hover {
@@ -209,20 +212,26 @@ footer .footer-bottom {
 
 	main {
 		flex-direction: row;
-		padding: 0 30px;
+		/* padding: 0 30px; */
 	}
 
 	main section {
 		width: 80%;
-		margin-right: 20px;
+		/* margin-right: 20px; */
 	}
 
 	main aside {
 		width: 20%;
-		margin: 50px;
+		/* margin: 50px; */
 	}
 
 	footer {
 		/* margin-top: auto; */
+		
+	}
+	header{
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
 	}
 }
